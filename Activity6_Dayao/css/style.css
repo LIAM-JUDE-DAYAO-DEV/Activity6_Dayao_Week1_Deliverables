@@ -59,15 +59,12 @@ body {
 
 
 
-.logo { font-size: 2rem; }
-.logo span { color: var(--color-gray); }
 .logo {
-  display: flex;
-  align-items: center;
-}
-.logo-img {
-  width: 150px;
-  height: 150px;
+width: 55px;
+height: 55px;
+border-radius: 50%;
+border: 3px solid #b7d8c9;
+object-fit: cover;
 }
 
 
